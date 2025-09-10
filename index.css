@@ -1,0 +1,8 @@
+body {
+  background-color: #333333;
+  color: aliceblue;
+  display: grid;
+  place-items: center;
+  align-items: center;
+  height: 40vh;
+}
