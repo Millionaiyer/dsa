@@ -59,3 +59,22 @@
 // }
 
 // console.log(smallestNumber([-7, -4, -78, -3, -4, -7]), "test");
+
+// find the 2nd largest number in an array
+
+// function secondLargest(arr) {
+//   let largest = -Infinity;
+//   let second = 0;
+
+//   for (i = 0; i < arr.length; i++) {
+//     if (arr[i] > largest) {
+//       second = largest;
+//       largest = arr[i];
+//     } else if (arr[i] > second && arr[i] != largest) {
+//       second = arr[i];
+//     }
+//     return second;
+//   }
+
+//   console.log(secondLargest([2, 1, 6, 82, 1]));
+// }
